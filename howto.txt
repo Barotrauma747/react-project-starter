@@ -1,0 +1,5 @@
+1. open the jsx starter in your terminal
+2. run "npm install" to install all dependencies
+3. run "npm start" to start your local server
+4. in your browser go to "localhost:3000" 
+5. to exit out just press control+c
